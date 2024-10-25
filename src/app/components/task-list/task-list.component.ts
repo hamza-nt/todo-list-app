@@ -10,5 +10,5 @@ import { TaskItemComponent } from '../task-item/task-item.component';
   styleUrl: './task-list.component.css'
 })
 export class TaskListComponent {
-  tasks: string[] = ['Buy groceries', 'Clean the house', 'Pay bills'];
+  tasks: string[] = ['Courses', 'Ménage', 'Faire du Sport'];
 }
